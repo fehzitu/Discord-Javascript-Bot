@@ -1,4 +1,4 @@
-## 📝 Simple Javascript Discord Bot
+## <img align="left" alt="DiscordJs" title="DiscordJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" /> Simple Javascript Discord Bot
 
 A small project developed as a test to practice **OOP JavaScript**.
 The goal is create a simple bot that have many feature as i can do and implement
