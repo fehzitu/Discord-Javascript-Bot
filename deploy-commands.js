@@ -20,9 +20,9 @@ for (const folder of commandFolders) {
       commands.push(command.data.toJSON());
     } else {
       console.log(`[AVISO!] Comando em: ${filePath} está com os dados: "data" ou "execute" em falta!`);
-    }
-  }
-}
+    };
+  };
+};
 
 const rest = new Discord.REST().setToken(token);
 

@@ -21,8 +21,8 @@ for (const folder of commandsFolders) {
       client.commands.set(command.data.name, command);
     } else {
       console.log(`[AVISO!] Comando em: ${filePath} está com os dados: "data" ou "execute" em falta!`);
-    }
-  }
+    };
+  };
 };
 
 client.events = new Discord.Collection();
@@ -39,8 +39,8 @@ for (const folder of eventsFolders) {
       client.once(event.name, (...args) => event.execute(...args));
     } else {
       client.on(event.name, (...args) => event.execute(...args));
-    }
-  }
+    };
+  };
 };
 
 client.login(Token.token);
