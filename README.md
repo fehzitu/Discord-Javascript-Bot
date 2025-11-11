@@ -23,7 +23,7 @@ The goal is create a simple bot that have many feature as i can do and implement
 ## 🌐 How to use:
 ```bash
 # Clone this repository
-git clone https://github.com/BeLLziTuh/Discord-Bot-JavaScript
+git clone [repo-link]
 
 # Open this folder
 cd Discord-Bot-JavaScript
