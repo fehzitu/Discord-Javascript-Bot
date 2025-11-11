@@ -26,7 +26,7 @@ The goal is create a simple bot that have many feature as i can do and implement
 git clone [repo-link]
 
 # Open this folder
-cd Discord-Bot-JavaScript
+cd [repo-name]
 
 # Initialize a Node project
 yes | npm init
