@@ -32,12 +32,12 @@ cd [repo-name]
 yes | npm init
 
 # Install all dependencies
-yes | npm Install
+yes | npm install
 
 # Configure "config.json"
 touch config.json
 
-# On json file code this:
+# On json file:
 {
   "clientId": "BOT ID",
   "token": "BOT TOKEN"
