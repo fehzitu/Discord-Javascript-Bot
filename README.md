@@ -43,8 +43,3 @@ touch config.json
   "token": "BOT TOKEN"
 }
 ```
-
-# Start bot
-npm start
-
----
